@@ -37,4 +37,6 @@
   <h3>📮 Contato: </h3> 
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mathgomes16@gmail.com)](mailto:mathgomes16@gmail.com)
-    [![LinkedIn: Matheus Lira](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-lira-a18006158/)](https://www.linkedin.com/in/matheus-lira-a18006158/)
+  [![LinkedIn: Matheus Lira](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-lira-   a18006158/)](https://www.linkedin.com/in/matheus-lira-a18006158/)
+    
+  ![Snake animation](https://github.com/matheusglira)
