@@ -2,7 +2,7 @@
 
 - 🎓   Formado em Sistemas de Informação pela <a href="https://www.uninassau.edu.br/">UNINASSAU</a> e Técnico em Informática no <a href="https://portal.ifba.edu.br/">IFBA</a>.
 - 🖥️   Procurando sempre estudar novas linguagens e ferramentas de desenvolvimento.
-- 💼   Trabalhando como Consultor de Soluções Customizadas na <a href="https://www.capgemini.com/">Capgemini</a>
+- 💼   Trabalhando como Analista Desenvolvedor na <a href="https://www.qintess.com/">Qintess</a>
 
 
 <h3> :rocket: &nbsp;Meus conhecimentos  </h3>
