@@ -2,7 +2,7 @@
 
 - 🎓   Formado em Sistemas de Informação pela <a href="https://www.uninassau.edu.br/">UNINASSAU</a> e Técnico em Informática no <a href="https://portal.ifba.edu.br/">IFBA</a>.
 - 🖥️   Procurando sempre estudar novas linguagens e ferramentas de desenvolvimento.
-- 💼   Trabalhando como Desenvolvedor Pleno na <a href="https://www.digisystem.com.br/">Digisystem</a>
+- 💼   Trabalhando como Analista de Sistemas na <a href="https://www.datainfo.inf.br/">Datainfo</a>
 
 
 <h3> :rocket: &nbsp;Meus conhecimentos  </h3>
